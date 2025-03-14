@@ -1,8 +1,8 @@
-# nostra-website
+# trenda aura-website
 A modern, responsive e-commerce platform built with **HTML**, **CSS**, and **JavaScript**. Easily browse, filter, and add products to your cart. 🛍️ Optimized for mobile and desktop, delivering a smooth, fast shopping experience. 📱💻 Perfect for learning web development or creating online stores! 🚀  ---
-# Nostro Cloth Shopping Website
+# Trend aura Cloth Shopping Website
 
-Welcome to the **Nostro Cloth Shopping Website** repository! This is a fully functional e-commerce website where users can browse and purchase various clothing items. The project is built using HTML, CSS, and JavaScript.
+Welcome to the **Trend Aura Cloth Shopping Website** repository! This is a fully functional e-commerce website where users can browse and purchase various clothing items. The project is built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 - [Features](#features)
